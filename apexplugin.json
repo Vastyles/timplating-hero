@@ -1,0 +1,36 @@
+{
+  "name": "Timplating Hero",
+  "version": "1.0",
+  "description": "A richer Hero template component",
+  "keywords" : ["APEX", "TEMPLATE_COMPONENT", "HERO", "ORACLE", "TIMPLATING"],
+  "homepage": "https://github.com/Vastyles/timplating-hero",
+  "bugs": {
+    "url": "https://github.com/Vastyles/timplating-hero/issues",
+    "email": "timplating@vastyles.com"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Tim Kimberl",
+    "email": "tim@vastyles.com",
+    "url": "https://timplating.com/",
+    "twitter": "timan25",
+    "donationUrl": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vastyles/timplating-hero.git"
+  },
+  "oracle": {
+    "versions": ["24.1.0"],
+    "apex": {
+      "versions": ["24.1.0"],
+      "plugin": {
+        "internalName": "APEX.TIMPLATING.HERO",
+        "type": "Template Component",
+        "demo": "https://apex.oracle.com/pls/apex/r/timplating/apex-escapes/",
+        "previewImage": "https://github.com/Vastyles/timplating-hero/blob/main/docs/preview.png?raw=true"
+      }
+    }
+  }
+}
