@@ -27,7 +27,7 @@
       "versions": ["24.1.0"],
       "plugin": {
         "internalName": "APEX.TIMPLATING.HERO",
-        "type": "Template Component",
+        "type": "template component",
         "demo": "https://apex.oracle.com/pls/apex/r/timplating/apex-escapes/",
         "previewImage": "https://github.com/Vastyles/timplating-hero/blob/main/docs/preview.png?raw=true"
       }
